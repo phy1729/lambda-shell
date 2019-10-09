@@ -1,0 +1,4 @@
+/lambda.zip
+/.terraform/
+/terraform.tfstate*
+/terraform.tfvars
